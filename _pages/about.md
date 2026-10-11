@@ -2,18 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Electronic Systems Product Engineer, Cummins Inc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Columbus, IN</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,13 +20,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Electronic Systems Product Engineer on the OBD Infrastructure Team at [Cummins Inc.](https://www.cummins.com/), working on diagnostic validation for the Barracuda/CSAR program. I recently completed my M.S. in Engineering (Electrical Engineering concentration) at [Texas A&M University–Corpus Christi](https://www.tamucc.edu/), advised by Dr. Ruby Mehrubeoglu. I received my B.S. in Telecommunication Engineering from BUITEMS, Pakistan, in 2018.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on AI-driven anomaly and defect detection deployed on edge and embedded hardware for reliability-critical systems, applied to photovoltaic/renewable energy infrastructure, environmental monitoring, and vehicle diagnostics. My M.S. thesis developed a deep learning-based classification and segmentation pipeline for photovoltaic panel surface defects, deployed on a Raspberry Pi 5 with real-time IoT monitoring.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to graduate school, I spent about four years as a hardware engineer at the Government Innovation Lab (UNDP) in Quetta, Pakistan, designing embedded systems, PCBs, and IoT devices for public-sector applications.
