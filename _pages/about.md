@@ -5,7 +5,7 @@ permalink: /
 subtitle: Electronic Systems Product Engineer, Cummins Inc.
 
 profile:
-  align: right
+  align: left
   image: profile_pic.jpeg
   image_circular: false
   more_info: >
